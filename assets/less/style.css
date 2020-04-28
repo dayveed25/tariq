@@ -364,7 +364,7 @@ body {
   left: 32%;
   top: 10%;
 }
-@media screen {
+@media only screen and (max-width: 529px) {
   #work .chorus .image img:first-of-type {
     width: 100px;
     height: 100px;
@@ -390,7 +390,7 @@ body {
   bottom: -25%;
   right: 5%;
 }
-@media screen {
+@media only screen and (max-width: 529px) {
   #work .chorus .image img:nth-of-type(2) {
     width: 100px;
     height: 100px;
@@ -646,7 +646,7 @@ body {
   right: 30%;
   top: 10%;
 }
-@media screen {
+@media only screen and (max-width: 529px) {
   #work .haqibah .image img:first-of-type {
     width: 80px;
     height: 80px;
@@ -659,7 +659,7 @@ body {
   right: 10%;
   z-index: 1;
 }
-@media screen {
+@media only screen and (max-width: 529px) {
   #work .haqibah .image img:nth-of-type(3) {
     width: 140px;
     height: 140px;
@@ -672,7 +672,7 @@ body {
   bottom: -30%;
   right: 3%;
 }
-@media screen {
+@media only screen and (max-width: 529px) {
   #work .haqibah .image img:nth-of-type(2) {
     width: 80px;
     height: 80px;
@@ -744,7 +744,7 @@ body {
   right: 3%;
   top: 10%;
 }
-@media screen {
+@media only screen and (max-width: 529px) {
   #work .illustration .image img:first-of-type {
     width: 85px;
     height: 90px;
@@ -770,7 +770,7 @@ body {
   bottom: -50%;
   right: 18%;
 }
-@media screen {
+@media only screen and (max-width: 529px) {
   #work .illustration .image img:nth-of-type(2) {
     width: 85px;
     height: 90px;
