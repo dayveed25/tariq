@@ -137,3 +137,4 @@
     
     <script src="../tariq/assets/js/script.js"></script>    
 </body>
+</html>
